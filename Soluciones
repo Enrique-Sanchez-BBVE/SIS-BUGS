@@ -1,0 +1,40 @@
+1. El código de test es igual de indispensable como el código productivo.
+Las pruebas unitarias son importantes para comprobar el funcionamiento de una unidad de código.
+
+También se utilizan para otras cosas a parte de comprobar si el código hace lo que tiene que hacer, como: verifica si son correctos los nombres, los tipos de parámetros, el tipo de lo que se devuelve, que si el estado inicial es válido también lo sea el final. 
+
+2. Utiliza nombres descriptivos en variables, funciones, parámetros, clases y métodos.
+El programador promedio gasta hasta el 75% de su tiempo leyendo código, en vez de escribirlo. Esto sucede cuando toman un proyecto a medias y muchas veces es un dolor de cabeza leer todo el código debido a las malas prácticas que se utilizan.
+
+¿Quieres dejar de ser un dolor de cabeza para otros programadores? Empieza por escribir código limpio. Y esto no solo beneficia a futuros desarrolladores, también te beneficia a ti cuando te toque volver a revisar esas líneas de código que escribiste hace meses.  
+
+Si puedes escribir código legible con la menor cantidad de comentarios, vas por buen camino. 
+
+3. Divide tu código 
+Los escenarios que se pueden mejorar separando el código en pequeños métodos son muchos.
+
+Cuando un proyecto es de alto impacto y comienza a crecer, es complicado mantenerlo y seguir desarrollándolo. Esto sucede porque tenemos una pieza de código que se encarga de solucionar múltiples problemas. 
+
+La solución a este desafío es desarrollar código reutilizable, código que se centre en solucionar problemas específicos en nuestro proyecto. 
+
+4. Aplica soluciones sencillas 
+Cuando escribimos soluciones sencillas, fáciles de leer y modificar estamos simplificando nuestro trabajo. Cuando una parte del código se necesita actualizar, ¿qué es más fácil? ¿Leer y modificar bloques más reducidos o tener que modificar un bloque de mil líneas? 
+
+Esto no quiere decir que un bloque que contenga mil o más líneas esté mal escrito, lo que aconsejamos es que los simplifiques al máximo para poder reutilizarlo y editarlo en cualquier momento con más facilidad. 
+
+5. Utiliza un estándar 
+En PHP se utilizan estándares para escribir código, ¿con qué fin? Reducir la dificultad para leer código de otros programadores y por supuesto, de uno mismo.
+
+El estándar PSR-2 en PHP nos sugiere lo siguiente: 
+
+– No hay un límite estricto en la longitud de las líneas. Pero se recomienda que el límite se puede mantener en 120 caracteres; las líneas deberían tener preferiblemente 80 caracteres o menos.
+
+– Sin espacios en blanco al final de las líneas que no estén vacías.
+
+– Es posible que se agregue líneas en blanco para mejorar la lectura del código y para indicar bloques de código que estén relacionados.
+
+– No se recomienda más de una sentencia por línea.
+
+-Debe haber una línea en blanco después de la declaración del namespace, y DEBE haber una línea en blanco después del bloque de declaraciones use.
+
+Al poner en práctica estos consejos, te volverás un mejor programador y tendrás un proceso de trabajo más eficiente que te ayude a cumplir con objetivos.
