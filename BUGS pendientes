@@ -2,5 +2,5 @@ En esta sección están los bugs que aún están pendientes de ser remediados.
 Al iniciar sesión, el logo de BBVE no se presenta de manera adecuada
 La aplicación tarda en cargar
 Existe una vulnerabilidad de inyección de SQL que no hemos podido solucionar en la aplicación DVWA
-
+Cambiar las contraseñas del ambiente de producción
 No hemos podido ofuscar la información sensible de la base de datos
